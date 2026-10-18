@@ -27,6 +27,7 @@ People who have chosen to be listed. To add yourself, open a pull request that e
 | GitHub | Name | Works on |
 |---|---|---|
 | [@ujeshauchitha-glitch](https://github.com/ujeshauchitha-glitch) | Ujesha Sivaramakrishnan | Applied research, hardware/software co-design |
+| [@apexrajveer-creator](https://github.com/apexrajveer-creator) | Rajveer Raj | Software Development, Product Design and Development, Database Systems |
 
 Per-repository contributor lists are on each repository's *Insights → Contributors* page.
 
