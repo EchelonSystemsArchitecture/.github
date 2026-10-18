@@ -1,6 +1,8 @@
-# Echelon
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EchelonSystemsArchitecture/.github/main/profile/banner.svg" alt="Echelon: software development, embedded architecture, applied research, design" width="100%">
+</p>
 
-**Software development · embedded architecture · applied research · design**
+# Echelon
 
 We build things at the boundary between software and hardware, and we test our ideas with measurements instead of
 claims. Most of our project repositories are private while they are in progress; this page lists what is public.
@@ -9,7 +11,7 @@ claims. Most of our project repositories are private while they are in progress;
 
 | Repository | What it is |
 |---|---|
-| [f1infographics](https://github.com/EchelonSystemsArchitecture/f1infographics) | Shared team repository. Every member of the organization can push to it. |
+| [f1infographics](https://github.com/EchelonSystemsArchitecture/f1infographics) | Shared team repository for Formula 1 infographics. Every member of the organization can push to it. [Live site](https://echelonsystemsarchitecture.github.io/f1infographics/) |
 
 ## How we work
 
